@@ -19,7 +19,7 @@ E' come costruire un prototipo strutturale che servirà da guida al mockup ad al
 ## Come iniziare
 Il Wireframe kit è un file _.sketch_, pertanto, se non lo hai già, puoi scaricare il software Sketch oppure assicurarti di avere sempre la versione aggiornata per aprire correttamente il file.
 
-Prima di iniziare scarica da Google Font il typefaces:[Titillium](https://fonts.google.com/specimen/Titillium+Web)
+Prima di iniziare scarica da Google Font il typefaces: [Titillium](https://fonts.google.com/specimen/Titillium+Web)
 
 Una volta scaricato il file, caricalo in Sketch come libreria cosicché puoi avere i componenti sempre aggiornati.
 
