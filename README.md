@@ -36,4 +36,4 @@ Vorresti dare una mano al Wireframe Kit? **Sei nel posto giusto!**
  
 Se non l'hai già fatto, inizia spendendo qualche minuto per approfondire la tua conoscenza sulle
 [linee guida di design per i servizi web della PA](https://design-italia.readthedocs.io/it/stable/index.html),
-e fai riferimento alle [indicazioni su come contribuire allo UI Kit](CONTRIBUTING.md). 
+e fai riferimento alle [indicazioni su come contribuire al Wireframe Kit](CONTRIBUTING.md). 
