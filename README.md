@@ -1,6 +1,8 @@
 [![Join the #design channel](https://img.shields.io/badge/Slack%20channel-%23design-blue.svg)](https://developersitalia.slack.com/messages/C7658JRJR/)
 [![Get invited](https://slack.developers.italia.it/badge.svg)](https://slack.developers.italia.it/)
 
+ <img src="images/Artboard 2.png" width="900"> 
+
 # Wireframe Kit
 
 Il Wireframe Kit fa parte di un progetto più ampio che si chiama Designers Italia e che include una serie di [kit di design](https://designers.italia.it/kit/) utili a progettare e realizzare i servizi digitali destinati ai cittadini. 
