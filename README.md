@@ -18,13 +18,11 @@ Il kit contiene elementi (modelli di pagine e componenti) utili per costruire un
 - [Come contribuire](#come-contribuire)
 
 ## Come iniziare
-Il wireframe kit è realizzato in Sketch pertanto, se non lo hai già, puoi scaricare il software Sketch oppure assicurarti di avere sempre la versione aggiornata per aprire correttamente il file.
+Il wireframe kit è realizzato in Sketch pertanto se non lo hai già, puoi scaricare il software Sketch e assicurarti di avere sempre la versione più aggiornata per aprire correttamente il file.
 
 Prima di iniziare, scarica da Google Font il typefaces: [Titillium](https://fonts.google.com/specimen/Titillium+Web)
 
-Una volta scaricato il file Sketch, caricalo come libreria cosicché puoi avere i componenti sempre aggiornati.
-
-Per sapere come caricare una libreria e tenerla aggiornata leggi le [Sketch Libraries Wiki](https://github.com/italia/design-ui-kit/wiki/Sketch-Libraries) .
+Per avere i componenti sempre aggiornati, carica il file _.sketch_ come libreria. Per sapere come fare, leggi le [Sketch Libraries Wiki](https://github.com/italia/design-ui-kit/wiki/Sketch-Libraries) .
 
 ## Segnalazione bug e richieste di aiuto
 
