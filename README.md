@@ -3,13 +3,13 @@
 
 # Wireframe Kit
 
-Il Wireframe Kit fa parte di un progetto più grande che si chiama Designers Italia che include una serie di [kit di design](https://designers.italia.it/kit/) utili a progettare e realizzare i servizi digitali destinati ai cittadini. 
+Il Wireframe Kit fa parte di un progetto più ampio che si chiama Designers Italia e che include una serie di [kit di design](https://designers.italia.it/kit/) utili a progettare e realizzare i servizi digitali destinati ai cittadini. 
 
-Il wireframe serve a costruire l'architettura di un sito web, ad impostare i layout delle pagine, ad impostare la gerarchia delle informazioni e l'interazione, senza essere distratti dai colori e dagli stili.
-Il wireframe è la costruzione dell'architettura di un sito web e serve a capire come costruire dei layout, a come impostare la gerarchia delle informazioni e l'interazione, senza essere distratti dai colori e dagli stili.
-E' come costruire un prototipo strutturale che servirà da guida al mockup ad alta definizione per cui invece si può utilizzare lo UI Kit.
+Il wireframe serve a costruire l'architettura di un sito web, ad impostare i layout delle pagine, la gerarchia delle informazioni e l'interazione, senza essere distratti dai colori e dagli stili.
 
-È infatti un progetto aperto e in continua evoluzione non solo per i componenti ancora da realizzare ma anche per l’implementazione dei file già scaricabili.
+Il kit contiene elementi (modelli di pagine e componenti) utili per costruire un prototipo lo-fi di un servizio pubblico digitale. 
+
+È un progetto aperto e in continua evoluzione non solo per i componenti ancora da realizzare ma anche per l’implementazione di quelli già esistenti.
 
 ## Indice
 
@@ -18,7 +18,7 @@ E' come costruire un prototipo strutturale che servirà da guida al mockup ad al
 - [Come contribuire](#come-contribuire)
 
 ## Come iniziare
-Il Wireframe kit è un file _.sketch_, pertanto, se non lo hai già, puoi scaricare il software Sketch oppure assicurarti di avere sempre la versione aggiornata per aprire correttamente il file.
+Il wireframe kit è realizzato in Sketch pertanto, se non lo hai già, puoi scaricare il software Sketch oppure assicurarti di avere sempre la versione aggiornata per aprire correttamente il file.
 
 Prima di iniziare, scarica da Google Font il typefaces: [Titillium](https://fonts.google.com/specimen/Titillium+Web)
 
