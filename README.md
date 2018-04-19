@@ -3,10 +3,11 @@
 
 # Wireframe Kit
 
-Il Wireframe Kit è parte di un insieme di strumenti condivisi, i [kit di design](https://designers.italia.it/kit/), che servono a progettare e realizzare i servizi digitali destinati ai cittadini. 
+Il Wireframe Kit fa parte di un progetto più grande che si chiama Designers Italia che include una serie di [kit di design](https://designers.italia.it/kit/) utili a progettare e realizzare i servizi digitali destinati ai cittadini. 
 
+Il wireframe serve a costruire l'architettura di un sito web, ad impostare i layout delle pagine, ad impostare la gerarchia delle informazioni e l'interazione, senza essere distratti dai colori e dagli stili.
 Il wireframe è la costruzione dell'architettura di un sito web e serve a capire come costruire dei layout, a come impostare la gerarchia delle informazioni e l'interazione, senza essere distratti dai colori e dagli stili.
-E' come costruire un prototipo strutturale che servirà da guida al mockup ad alta definizione costruito utilizzando lo UI Kit.
+E' come costruire un prototipo strutturale che servirà da guida al mockup ad alta definizione per cui invece si può utilizzare lo UI Kit.
 
 È infatti un progetto aperto e in continua evoluzione non solo per i componenti ancora da realizzare ma anche per l’implementazione dei file già scaricabili.
 
@@ -19,9 +20,9 @@ E' come costruire un prototipo strutturale che servirà da guida al mockup ad al
 ## Come iniziare
 Il Wireframe kit è un file _.sketch_, pertanto, se non lo hai già, puoi scaricare il software Sketch oppure assicurarti di avere sempre la versione aggiornata per aprire correttamente il file.
 
-Prima di iniziare scarica da Google Font il typefaces: [Titillium](https://fonts.google.com/specimen/Titillium+Web)
+Prima di iniziare, scarica da Google Font il typefaces: [Titillium](https://fonts.google.com/specimen/Titillium+Web)
 
-Una volta scaricato il file, caricalo in Sketch come libreria cosicché puoi avere i componenti sempre aggiornati.
+Una volta scaricato il file Sketch, caricalo come libreria cosicché puoi avere i componenti sempre aggiornati.
 
 Per sapere come caricare una libreria e tenerla aggiornata leggi le [Sketch Libraries Wiki](https://github.com/italia/design-ui-kit/wiki/Sketch-Libraries) .
 
