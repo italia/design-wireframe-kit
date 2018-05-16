@@ -8,13 +8,13 @@ Il progetto si compone di una serie di elementi da costruire e già costruiti ch
 
 ## Creare una issue
 
-L'[issue tracker](https://github.com/italia/design-ui-kit/issues) è una sezione del repository a cui si accede dal tab menu. 
+L'[issue tracker](https://github.com/italia/design-wireframe-kit/issues) è una sezione del repository a cui si accede dal tab menu. 
 
-  <img src="INSTRUCTIONS/how_issue.jpg" width="520"> 
+   <img src="https://github.com/italia/design-wireframe-kit/blob/development/images/how_issue%20(1).jpg" width="520"> 
   
   Creare una issue è come scrivere una mail: clicca su *new issue* e si aprirà un editor di testo.  
   
-  <img src="INSTRUCTIONS/Screen Shot 2018-03-14 at 15.53.24.png" width="520">
+   <img src="https://github.com/italia/design-wireframe-kit/blob/development/images/Screen%20Shot%202018-03-14%20at%2015.53.24%20(1).png" width="520">
   
 ## Codice di condotta
 

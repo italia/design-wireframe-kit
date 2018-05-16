@@ -31,7 +31,7 @@ Per avere i componenti sempre aggiornati, carica il file _.sketch_ come libreria
 
 Vuoi segnalare un bug o fare una richiesta?
 
-Dai un'occhiata a come [creare una issue](https://github.com/italia/design-ui-kit/blob/master/CONTRIBUTING.md#creare-una-issue). Se invece vuoi discutere delle scelte fatte o qualcosa non ti è chiaro, puoi venire a parlarne su [Slack](https://designersitalia.slack.com/messages/C7658JRJR/) o sul [Forum](https://forum.italia.it/) di Designers Italia.
+Dai un'occhiata a come [creare una issue](https://github.com/italia/design-wireframe-kit/blob/development/CONTRIBUTING.md). Se invece vuoi discutere delle scelte fatte o qualcosa non ti è chiaro, puoi venire a parlarne su [Slack](https://designersitalia.slack.com/messages/C7658JRJR/) o sul [Forum](https://forum.italia.it/) di Designers Italia.
 
 ## Come contribuire
 Vorresti dare una mano al Wireframe Kit? **Sei nel posto giusto!**
