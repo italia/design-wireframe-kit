@@ -4,7 +4,7 @@ Prenditi un momento per leggere questo documento così da rendere il processo se
 dal resto della comunità dei designers.
 
 Se vuoi contribuire al progetto, prima di creare o modificare dei file, raccontaci quali sono i nuovi componenti che vuoi costruire o quali aspetti vuoi migliorare del Kit esistente. Puoi farlo o creando una issue in questo repository oppure scrivendoci su [Slack](https://slack.designers.italia.it/) o sul [Forum](https://forum.italia.it/c/design/user-interface). Ti verranno fornite indicazioni più dettagliate. 
-Per vedere di quali e quanti elementi si compone il progetto puoi giardare e commentare [questa roadmap] (https://docs.google.com/spreadsheets/d/1ZTH3LrYwsheP9X7TFTl-M60EIsg02nRFvtMjkuU_3_8/edit#gid=0)
+Per vedere di quali e quanti elementi si compone il progetto puoi giardare e commentare [questa roadmap](https://docs.google.com/spreadsheets/d/1ZTH3LrYwsheP9X7TFTl-M60EIsg02nRFvtMjkuU_3_8/edit?usp=sharing).
 
 ## Creare una issue
 
