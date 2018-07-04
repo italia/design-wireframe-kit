@@ -12,7 +12,7 @@ Il wireframe serve a costruire la struttura di un sito web, ad impostare i layou
 
 Il kit contiene elementi (modelli di pagine e componenti) utili per costruire un prototipo low-fi di un servizio pubblico digitale. 
 
-Il progetto è aperto a chiunque voglia contribuire a costruire elementi o screens e a migliorare quanto già è stato fatto. :eyes: Per vedere i componenti e pattern collegati all'Invision Project [Italia Wireframe Kit.](https://invis.io/V3LYDHT5FME) 
+Il progetto è aperto a chiunque voglia contribuire a costruire elementi o screens e a migliorare quanto già è stato fatto. :eyes: Puoi vedere e commentare i componenti e i pattern su Invision: [Italia Wireframe Kit.](https://invis.io/V3LYDHT5FME) 
 
 ## Indice
 
